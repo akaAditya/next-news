@@ -1,3 +1,4 @@
+"use client"
 // /about
 
 const AboutUsPage = () => {
